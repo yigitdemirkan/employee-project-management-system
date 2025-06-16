@@ -4,6 +4,6 @@ A console-based system to manage employee-project assignments using a 2D doubly 
 # Table of Contents:
 -**main.cpp:** Handles user interface and menu-driven commands.
 
-- **EmployeeProject2DLL.h/cpp:** Core logic for managing employees and their project lists.
+-**EmployeeProject2DLL.h/cpp:** Core logic for managing employees and their project lists.
 
-- **UndoStack.h/cpp:**  Stack structure for supporting undo functionality.
+-**UndoStack.h/cpp:**  Stack structure for supporting undo functionality.
